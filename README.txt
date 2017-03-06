@@ -1,4 +1,4 @@
-File Name	            Function
+File Name             Function
 
 word_count.py         Finds number of words in the essay
 sentence_count.py     Finds number of sentences in the essay
